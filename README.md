@@ -7,8 +7,9 @@ The dashboard serves as a functional demo of expertise in creating a **Star Sche
 
 **Goal:** Provide actionable insights into customer loyalty, churn risk, and retention rates, demonstrating proficiency in Power BI modeling and advanced DAX.
 
----
+**Used dataset:** [Kaggle](https://www.kaggle.com/datasets/ulrikthygepedersen/online-retail-dataset)
 
+---
 ## 💾 Repository Contents
 * **Dataset.zip:** The cleaned transactional data file (included for reproducibility).
 * **Online Retail data Analytics.pbix:** The final, complete Power BI report file.
